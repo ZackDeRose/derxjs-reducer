@@ -50,7 +50,7 @@ export function createDeRxJSReducer<ViewModelType, ActionsUnionType>({
 }
 
 export interface DeRxJSReducerInputs<ViewModelType, ActionsUnionType> {
-  reducer: (ViewModelType, ActionsUnionType) => ViewModelType;
+  reducer: (a: ViewModelType, b: ActionsUnionType) => ViewModelType;
   effects: ((
     state$: Observable<ViewModelType>,
     actions: Observable<ActionsUnionType>
