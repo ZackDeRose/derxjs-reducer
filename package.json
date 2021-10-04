@@ -1,0 +1,26 @@
+{
+  "name": "@derxjs/reducer",
+  "version": "0.0.0",
+  "description": "Reducer util library for DeRxJSViewModel Pattern",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackDeRose/derxjs-reducer.git"
+  },
+  "keywords": [
+    "rxjs",
+    "state-management"
+  ],
+  "author": "Zack DeRose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZackDeRose/derxjs-reducer/issues"
+  },
+  "homepage": "https://github.com/ZackDeRose/derxjs-reducer#readme",
+  "dependencies": {
+    "rxjs": "^7.3.1"
+  }
+}

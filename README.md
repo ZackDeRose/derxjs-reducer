@@ -1,4 +1,4 @@
-# @derxjs/view-model
+# @derxjs/reducer
 
 Because your state management code should be domain-agnostic.
 
@@ -112,9 +112,8 @@ This tool will generate `.spec.ts` files that you can paste directly into your r
 - @derxjs/view-model package ✅
 - Article on TDD and implementing DeRxJS View Models (10/8/2021)
 - Article on using DeRxJS View Models in different Frameworks (10/15/2021)
-- @derxjs/reducer package (TBD)
+- @derxjs/reducer package (TBD; beta available now [you're looking at it!])
 - Timeline Test Code Generation Tool (TBD)
 - @derxjs/selector package (TBD)
 - @derxjs/react package (TBD)
 - Ai-Driven DeRxJS Code Generation (TBD)
-
