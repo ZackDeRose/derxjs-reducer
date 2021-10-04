@@ -1,6 +1,6 @@
 {
   "name": "@derxjs/reducer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reducer util library for DeRxJSViewModel Pattern",
   "main": "index.js",
   "scripts": {
